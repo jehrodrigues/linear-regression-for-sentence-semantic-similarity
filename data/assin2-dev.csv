@@ -1,0 +1,501 @@
+pair_ID	sentence_A	sentence_B	relatedness_score	SemEval_set
+1	Uma pequena menina está sorrindo e usando um nariz falso e óculos	A menina pequena está sorrindo e usando um nariz falso e óculos	4.9	DEV
+2	Um grupo de pessoas jogando futebol está correndo no campo	Um grupo de jogadores de futebol está correndo no campo	4.8	DEV
+3	O homem está empinando uma motocicleta num chão que é praticamente árido	O homem está desmontando de uma moto para um chão que é praticamente árido	3.6	DEV
+4	Um cervo está saltando sobre uma cerca de ferro	O cervo está saltando sobre a cerca	4.6	DEV
+5	O homem está tocando a flauta	Um homem está tocando uma flauta	4.8	DEV
+6	Tofu está sendo fatiado por uma mulher	Uma menina está derretendo dois pedaços de manteiga juntos	1.44	DEV
+7	Um homem está desenhando algumas figuras	Uma pessoa está desenhando algumas figuras	4.6	DEV
+8	Alguém está despejando ingredientes em uma panela	Alguém está adicionando ingredientes em uma panela	4.4	DEV
+9	Um jogador de futebol de campo está marcando um gol	Um jogador de futebol está marcando um gol	4.7	DEV
+10	Um homem negro está andando perto de uma loja em uma cidade grande	Um homem negro está andando próximo a um prédio em uma grande cidade	4.5	DEV
+11	Uma menina de biquíni está brincando nas dunas	Uma menina de biquíni está brincando na areia	4.6	DEV
+12	Um homem está tocando teclado	Um homem está tocando um violão elétrico	2.4	DEV
+13	O homem não está tocando violão	O homem está tocando um violão	4.0	DEV
+14	A onda está sendo surfada pelo surfista	Um surfista está surfando a onda	4.8	DEV
+15	Dois cachorros grandes estão brincando em um campo gramado	Dois cachorros grandes estão brincando em um campo	4.7	DEV
+16	Um avião está voando	Um cachorro está latindo	1.0	DEV
+17	Pessoas estão em uma praia cheia de areia perto do oceano e estão curtindo o dia ensolarado	Não tem ninguém na costa	3.7	DEV
+18	O menino pequeno com cabelo castanho está pulando de uma cadeira marrom para o chão	Um jovem menino está pulando de uma cadeira	4.2	DEV
+19	Crianças estão sendo vestidas em fantasias e jogando um jogo	Crianças estão sendo vestidas com fantasias e jogando um jogo	4.9	DEV
+20	Um filhote de gato está brincando com um brinquedo	O gato pequeno está brincando com um brinquedo	4.8	DEV
+21	As janelas estão sendo limpas por um homem	O carro do motorista é estacionado por um homem	1.9	DEV
+22	Um porquinho-da-índia está comendo uma cenoura	Um porquinho-da-índia está devorando uma cenoura	5.0	DEV
+23	Pessoas não estão jogando críquete	As pessoas estão jogando críquete	4.0	DEV
+24	Um cachorro preto escuro e um cachorro castanho claro estão brincando no quintal	A luz no quintal está pregando truques no escuro no cachorro castanho e preto	3.1	DEV
+25	Um cachorro que tem pelagem castanha e branca está trotando pelo raso	Um cachorro que tem a pelagem branca e castanha está trotando pelo raso	5.0	DEV
+26	Um homem está apontando para um sedã prateado	Um homem está em um estacionamento e está jogando tênis contra uma grande parede	1.3	DEV
+27	Uma mulher está entregando bolas de vôlei para outra mulher	Uma mulher está recebendo bolas de vôlei de outra mulher	5.0	DEV
+28	Uma mulher está passeando com o cachorro na rua	Uma mulher está segurando o cachorro	3.8	DEV
+29	Uma árvore está sendo apanhada por um homem	Um homem está carregando uma árvore	4.65	DEV
+30	O homem cercado por fotógrafos está vestindo um terno cinza e óculos	Um homem de terno está sendo cercado por fotógrafos	4.6	DEV
+31	Um cachorro castanho está passando por uma trilha nevada	Um cachorro castanho está correndo por um caminho nevado	4.9	DEV
+32	Uma mulher está rachando alguns ovos em uma tigela	Uma mulher está adicionando ingredientes em uma tigela grande	4.3	DEV
+33	Não tem nenhum homem segurando um sapo	Um homem está segurando um sapo	2.1	DEV
+34	O panda está comendo bambu	Um urso panda está comendo um pouco de bambu	4.9	DEV
+35	Um homem está polvilhando queijo ralado em uma pizza	Um homem está polvilhando queijo em uma pizza	4.7	DEV
+36	Um homem está parado	Um homem está falando	2.4	DEV
+37	Um macaco está chutando a mão enluvada de uma pessoa	Uma pessoa de luvas está chutando a mão de um macaco	3.1	DEV
+38	Não tem água sendo bebida por um gato	Um caminhão está descendo rapidamente um morro	1.0	DEV
+39	Não tem nenhum homem tocando uma flauta de madeira	Um homem está tocando piano	2.62	DEV
+40	Uma mulher está dançando numa gaiola	Não há nenhuma mulher dançando em uma gaiola	3.7	DEV
+41	Um homem está tocando um violão	Um homem está tocando violão	4.9	DEV
+42	Um homem está comendo alguma comida	A pessoa está comendo	4.4	DEV
+43	Um homem está fatiando uma cebola	A cebola está sendo cortada pelo homem	5.0	DEV
+44	Duas pessoas estão passeando dois cachorros com pelagens douradas na neve	Ninguém está na neve usando roupas que fornecem camuflagem	2.5	DEV
+45	Jogadores de futebol de campo estão chutando uma bola de futebol de campo no gol	Algumas pessoas que jogam futebol de campo estão chutando uma bola de futebol de campo para dentro do gol	4.7	DEV
+46	Um homem está digitando em uma máquina usada para taquigrafia	O homem está operando uma máquina de taquigrafria	4.7	DEV
+47	Um cachorro está pegando uma bola	O cachorro está pegando uma bola	5.0	DEV
+48	A menina loira está dançando atrás do equipamento de som	A menina loira está dançando em frente ao equipamento de som	3.9	DEV
+49	Algum papel está sendo cortado	O pedaço de papel está sendo cortado	4.6	DEV
+50	Uma criança jovem com cabelo preto está tirando uma foto com uma câmera	Uma criança jovem com cabelo de cor preta está tirando uma foto com uma câmera	4.9	DEV
+51	Alguém está tocando um piano	Alguém está desmontando um piano	3.2	DEV
+52	Um carro está sendo dirigido por um homem	Um homem está dirigindo um carro	4.9	DEV
+53	Algumas campainhas estão soando perto de um cozinheiro fatiando pimentas	A pessoa está cortando em cubos uma pimenta que é laranja	2.3	DEV
+54	Um homem está realizando um truque em uma bicicleta verde	Um homem está fazendo um truque de bicicleta	4.5	DEV
+55	O avião sul-africano está voando no céu azul	O avião sul-africano não está voando em um céu azul	3.8	DEV
+56	Uma mulher está fatiando uma cenoura	A cenoura está sendo fatiada por uma mulher	5.0	DEV
+57	O cavalo está sendo montado por um homem	O homem está no passeio com o cavalo	3.7	DEV
+58	Uma menina está despertando	Uma menina está acordando	4.9	DEV
+59	A mulher está tocando a flauta	Uma mulher está habilmente tocando uma flauta	4.6	DEV
+60	Um cachorro preto e branco está brincando com uma bola de vôlei destruída em um campo marrom	Um cachorro preto e branco está brincando com uma bola de voleibol esfarrapada em um campo marrom	4.8	DEV
+61	Um carro e um trem estão atingindo um brinquedo	Um trem de brinquedo está atingindo um carro de brinquedo	3.2	DEV
+62	Um peixe está sendo cortado por um homem	Um homem está fatiando um peixe	4.4	DEV
+63	Um macaco está andando de bike	Um macaco está andando de bicicleta	4.9	DEV
+64	Uma dupla de policiais mulheres está cantando em um karaokê	Uma dupla de mulheres policiais está cantando	4.2	DEV
+65	Um cachorro branco grande está pulando para cima na neve	Um grande cachorro branco está pulando no ar sobre uma área nevada	4.49	DEV
+66	Um homem está correndo estrada abaixo	Um homem está parado	2.7	DEV
+67	Um panda está escalando	Um homem está se atrelando antes de uma escalada	1.0	DEV
+68	Um cavalo está cavalgando sobre um homem	Um homem está andando a cavalo	3.0	DEV
+69	Dois meninos no sofá estão jogando vídeo games	Dois meninos estão no sofá jogando jogos na televisão	4.7	DEV
+70	Um homem está andando de moto pela cidade	Não tem nenhum homem dirigindo uma moto pela cidade	3.8	DEV
+71	Não tem muitas pessoas no parque de patinação no gelo	Muitas pessoas estão em um parque de patinação no gelo	3.5	DEV
+72	A mulher está olhando a vista de uma cidade	Uma mulher está olhando a vista de uma cidade	4.9	DEV
+73	Um esquilo está correndo em círculos	Um corredor está rodeando um esquilo	3.1	DEV
+74	Uma pessoa está chutando uma bola de futebol de campo entre os pés	A pessoa que está jogando futebol de campo está chutando a bola por entre as pernas de alguém	3.8	DEV
+75	Um grupo de amigos está navegando a corrente em um bote	Coletes salva-vidas estão sendo usados por um grupo de pessoas que está praticando salvamento na água	2.9	DEV
+76	Um homem está tocando violão	Um homem está tocando o instrumento	4.6	DEV
+77	Um macaco está escovando o cachorro	Não tem nenhum macaco escovando o cachorro	3.9	DEV
+78	Um homem está se movendo graciosamente	Um homem está dançando	3.5	DEV
+79	A criança está deliciosamente brincando com brinquedos ao ar livre	A criança está brincando com brinquedos ao ar livre	4.7	DEV
+80	Duas equipes estão jogando futebol de campo	Diferentes times estão jogando futebol no campo	3.0	DEV
+81	Um menino está jogando um jogo com blocos de madeira	Um menino está jogando um jogo com blocos feitos de madeira	4.8	DEV
+82	Um rebanho de renas está atravessando uma estrada	Um rebanho de cervos está atravessando a rua	3.8	DEV
+83	Alguém está caindo do cavalo	Alguém está caindo de um cavalo	4.8	DEV
+84	A mulher está guardando os ovos	A mulher está rachando ovos em uma tigela	3.6	DEV
+85	Um cachorro castanho está pulando no ar	O cachorro castanho está pulando no ar	4.5	DEV
+86	Um menino está pendurando uma vara para pesca e correndo em frente a um peixe	Um menino está correndo para longe de uma linha de pesca	2.7	DEV
+87	Uma menina está pulando no carro	Uma menina está pulando em um carro	3.2	DEV
+88	O homem está operando uma máquina de taquigrafria	O homem precisa de uma máquina de taquigrafia para operar	3.5	DEV
+89	Um homem em uma mountain bike amarela está dando um salto	Uma pessoa em uma mountain bike amarela está dando um pulo	4.4	DEV
+90	Duas meninas estão sentadas no chão	Várias crianças estão sentadas e levantam seus joelhos	3.2	DEV
+91	Não tem nenhum cachorro lambendo um bebê	Um cachorro está lambendo um bebê	4.4	DEV
+92	Um filhote de cachorro castanho está puxando um poste metálico que está preso no chão	Um filhote de cachorro castanho está mordendo um poste	4.5	DEV
+93	A mulher está passando sombra	Não tem nenhuma mulher passando sombra	3.6	DEV
+94	Quatro cachorros estão brincando em uma área coberta de grama	Quatro cachorros estão brincando em uma área gramada	4.6	DEV
+95	O cachorro não está empurrando o menino na água	Um cachorro está empurrando uma criança pequena dentro de uma poça de chuva	3.75	DEV
+96	Um gato está brincando com uma garrafa pequenina	Um animal está brincando com uma garrafa pequenina	4.4	DEV
+97	O homem está comendo	Um homem está comendo comida	4.55	DEV
+98	Uma mulher está passando maquiagem cuidadosamente	A banda está cantando alto	1.0	DEV
+99	Duas pessoas estão lutando e os espectadores estão assistindo	Duas mulheres estão brigando em uma partida de kickboxing	3.7	DEV
+100	Um homem está despejando óleo dentro de uma frigideira	Um homem está tirando o óleo de uma sautese	3.6	DEV
+101	Um cachorro está correndo em direção a uma bola	Um cachorro está correndo em direção a um brinquedo	4.3	DEV
+102	Um palhaço está cantando	Um palhaço está cantando e pessoas estão dançando	4.4	DEV
+103	O homem está andando de cavalo	A menina está andando de cavalo	2.9	DEV
+104	Algumas pessoas estão jogando críquete	Alguns homens estão jogando críquete	4.5	DEV
+105	O menino não está andando em um triciclo	O menino está andando em um triciclo	3.9	DEV
+106	Um ciclista está pedalando para longe de uma cerca	Um ciclista está pedalando sobre o topo de uma cerca	3.5	DEV
+107	As batatas estão sendo fatiadas por uma mulher	Uma mulher está fatiando batatas	4.9	DEV
+108	Uma mulher está tocando flauta	A mulher está tocando uma flauta	4.9	DEV
+109	Um homem está dobrando lentamente uma tortilha	Uma pessoa está embrulhando uma tortilha	4.6	DEV
+110	Uma bola está sendo pega por um cachorro em pleno ar	Um cachorro está pegando uma bola em pleno ar	4.9	DEV
+111	O homem não está caminhando na floresta	O homem está escalando no bosque	4.4	DEV
+112	Uma mulher está recebendo bolas de vôlei de outra mulher	Uma mulher está sacando bolas de vôlei sobre uma rede	3.3	DEV
+113	Um pato com penas castanhas e cabeça verde está batendo as suas asas na água	Um pássaro está batendo suas asas na água	4.4	DEV
+114	A senhora não está cortando a carne	A senhora está rachando um ovo para a batedeira	1.9	DEV
+115	Um ciclista vestindo preto está quebrando as engrenagens	Um homem está usando um capacete preto e empurrando uma bicicleta	2.3	DEV
+116	Um motociclista de capacete vermelho está andando em uma motocicleta azul pela estrada	Um motociclista está pilotando a motocicleta ao longo da rodovia	4.5	DEV
+117	Uma placa de papel está sendo cortada por um homem	Um homem está cortando uma placa de papel	5.0	DEV
+118	Um gato branco empoleirado em um pequenino armário de madeira está olhando para fora da janela	Um gato com pelagem branca, empoleirado em um pequeno armário de madeira, está olhando para fora da janela	4.8	DEV
+119	Os corredores estão competindo em uma corrida	Os corredores estão correndo em uma competição	4.5	DEV
+120	Uma mulher está pegando uma lata	Uma mulher está agarrando uma lata	4.0	DEV
+121	Um homem está usando uma camisa azul e andando com os pés descalços em uma quadra de tênis	Uma pessoa está usando uma saia azul e andando descalça na quadra de tênis	4.3	DEV
+122	A senhora está mexendo ovos em uma tigela	A mulher está mexendo ovos em uma tigela	4.9	DEV
+123	Quatro homens jovens estão em pé parados e um carro está explodindo atrás deles	Os meninos estão de pé na frente do carro em chamas	3.3	DEV
+124	Um homem está colocando vegetais em uma panela	Alguém está adicionando ingredientes em uma panela	4.3	DEV
+125	Um cachorro está perto de uma bola colorida em vermelho, que está no ar	Um cachorro está perto da bola vermelha no ar	4.9	DEV
+126	Não tem nenhum homem cortando um prato de papel	Um homem está cortando uma placa de papel	3.5	DEV
+127	Uma mulher está cortando um tomate	Um homem está cortando uma batata	2.4	DEV
+128	Algumas pessoas estão cantando	Um grupo de pessoas está cantando	4.6	DEV
+129	O homem está em pé sobre uma montanha, que é rochosa, e nuvens cinzas estão ao fundo	O homem está de pé em uma montanha rochosa e nuvens cinzas estão ao fundo	4.7	DEV
+130	Quatro crianças estão fazendo ponte no parque	Quatro garotas estão fazendo ponte e brincando ao ar livre	4.3	DEV
+131	O homem está despejando um pouco de óleo nos tomates	Um pouco de óleo está sendo derramado sobre os tomates por um homem	4.8	DEV
+132	As janelas estão sendo polidas por um homem	As janelas estão sendo limpas por um homem	4.4	DEV
+133	A menina, que é jovem, está soprando uma bolha que é enorme	A menina de camisa vermelha está soprando uma bolha	4.0	DEV
+134	Um homem está despejando um prato de queijo que está ralado dentro de uma panela de molho	Um homem está despejando um prato de queijo ralado em uma panela de molho	5.0	DEV
+135	Uma senhora está misturando uma mistura de carne em uma tigela	Não tem nenhuma senhora misturando uma mistura de carne em uma tigela	4.0	DEV
+136	O homem está tocando o violão	O homem está tocando o instrumento	4.4	DEV
+137	Um pai está lançando sua filha em uma piscina	Um pai está jogando a filha na piscina	4.8	DEV
+138	Não tem nenhum homem vestindo roupas que estão cobertas com tinta ou sentado do lado de fora em uma área movimentada escrevendo algo	Um homem está sentado perto de uma bicicleta e escrevendo uma nota	2.7	DEV
+139	Um gato está pulando em uma caixa	Um gato está pulando em um recipiente	4.4	DEV
+140	Não tem nenhum homem tocando uma flauta de bambu	O homem está tocando uma flauta	4.2	DEV
+141	Um homem está rasgando as fotos de um lago	O homem está configurando a câmera e tirando fotos do pôr-do-sol na praia	2.5	DEV
+142	Um menino está tocando um violão	O menino está tocando um violão	4.8	DEV
+143	Tem um cara animadamente brincando com uma bola de meia	Um cara está brincando animadamente com uma bola de meia	4.8	DEV
+144	Uma criança pequenina está bebendo água da xícara	O filhote de gato não está ansiosamente bebendo um pouco de leite da tigela	1.4	DEV
+145	Um pouco de alimento está sendo comido por um homem	Um homem está comendo alguma comida	5.0	DEV
+146	A mulher está cozinhando algo	A mulher não está cozinhando alguma coisa	3.6	DEV
+147	Uma árvore pequenina está sendo comida por um bebê elefante	Um elefante bebê está comendo uma árvore pequenina	4.7	DEV
+148	Alguma coisa está sendo celebrada por um ciclista frio	Um ciclista frio está comemorando	4.6	DEV
+149	O homem está tocando a flauta	Um homem está guardando o violão	2.8	DEV
+150	Um homem está pulando corda em um campo	Um homem está pulando corda lá fora	4.5	DEV
+151	Três meninos estão pulando nas folhas	Crianças em camisas vermelhas estão brincando nas folhas	4.1	DEV
+152	Um homem está apaixonadamente tocando um violão	O cantor está tocando o violão na frente de uma pessoa	3.9	DEV
+153	Um chefe está preparando alguma comida	Alguma comida está sendo preparada por um chefe	4.82	DEV
+154	A pessoa está escrevendo com um lápis	Os escritos são sobre uma pessoa desenhando	3.2	DEV
+155	O homem está tocando violão e tem a capa do violão aberta para doações	O violão está sendo tocado pelo homem, que tem o estojo do violão aberto para doações	5.0	DEV
+156	Um menino está olhando um calendário	O menino está checando um calendário	4.8	DEV
+157	Um bebê está espirrando e assustando outro bebê	O bebê está engatinhando feliz	2.5	DEV
+158	Alguns homens estão jogando críquete	Um pequeno grupo de homens está alegremente jogando críquete	4.5	DEV
+159	Uma mulher está colocando maquiagem em sua pálpebra	Uma mulher está removendo cosméticos de sua pálpebra	3.3	DEV
+160	O cachorro está empurrando um menino para a água	Um cachorro está puxando uma criança pequena de uma poça de chuva	3.2	DEV
+161	A mulher com uma faca está fatiando uma pimenta	A pimenta está sendo fatiada por uma mulher com uma faca	5.0	DEV
+162	Peixe está sendo cozido por uma mulher	Uma mulher está cozinhando peixe	4.9	DEV
+163	Um macaco está vadeando pelo pântano	Um macaco não está andando pela água	3.2	DEV
+164	Alguns cachorros estão brincando em um rio	Alguns cachorros estão brincando em uma correnteza	4.6	DEV
+165	Uma mulher está cortando uma cebola	Um cavalo está parado	1.0	DEV
+166	Uma pessoa está picando rapidamente os cogumelos com uma faca	Uma pessoa está rapidamente cortando cogumelos com uma faca	4.9	DEV
+167	Uma mulher está dançando belamente em uma gaiola	A mulher está dançando	4.33	DEV
+168	Um homem está realizando um truque em uma bicicleta verde	Um homem vestido de preto está andando de bicicleta	3.8	DEV
+169	Duas pessoas de roupas para neve estão deitadas na neve e estão fazendo anjos de neve	Ninguém de roupas para neve está deitado na neve e fazendo anjos da neve	4.1	DEV
+170	O homem não está dançando	O homem está dançando	3.8	DEV
+171	O macaco está escovando um buldogue	O macaco não está escovando um buldogue	4.0	DEV
+172	Uma mulher está removendo cosméticos de sua pálpebra	Uma mulher está aplicando cosméticos em sua pálpebra	3.5	DEV
+173	Um homem e uma mulher estão dando um aperto de mãos	Duas pessoas estão dando um aperto de mãos	4.7	DEV
+174	Não tem nenhum homem andando do lado de fora	Um homem está caminhando do lado de fora	4.6	DEV
+175	Não tem nenhum cervo pulando cercas	O cervo está pulando sobre uma cerca	2.69	DEV
+176	O macaco está escovando um buldogue	Um macaco está escovando o cachorro	4.4	DEV
+177	Um grupo de amigos está navegando a corrente em um bote	Ninguém está praticando salvamento na água e usando coletes salva-vidas	2.2	DEV
+178	O conteúdo de uma tigela está sendo misturado por um homem	Um homem está misturando o conteúdo de uma tigela	5.0	DEV
+179	Um menino jovem coberto de grama está pulando perto de uma cerca de madeira	Um jovem menino coberto na grama está pulando próximo a uma cerca de madeira	4.9	DEV
+180	Um jovem menino coberto na grama está pulando próximo a uma cerca de madeira	Um menino jovem coberto de grama está pulando perto de uma cerca de madeira	4.9	DEV
+181	Uma mulher está fatiando um pepino	Uma pessoa está fatiando um pepino	4.4	DEV
+182	O cachorro está pulando para pegar um frisbee na neve	Um cachorro está pulando para pegar um frisbee na neve	5.0	DEV
+183	Os meninos não estão dançando na frente de algumas pessoas	Dois homens estão fazendo um esquete engraçado com um boxeador na frente de uma multidão de pessoas	1.6	DEV
+184	Duas pessoas estão montadas em uma moto	Duas bicicletas estão sendo pedaladas por duas pessoas	3.8	DEV
+185	A bola está sendo enterrada por um homem com uma camisa de time em um jogo de basquete	Um homem com uma camisa de time está enterrando uma bola em um jogo de basquete	4.9	DEV
+186	Um menino jovem não está escalando uma parede feita de pedra	Uma criança pequena está escalando uma parede de escalada dentro de uma área coberta	3.9	DEV
+187	Um chimpanzé está praticando artes marciais	Um macaco está praticando artes marciais	4.5	DEV
+188	Três homens estão encarando os grandes morros verdes à distância	Três homens estão olhando para a distância	4.3	DEV
+189	Um avião está decolando	Um avião está pousando	3.4	DEV
+190	Os filhotes de gato estão comendo a comida nas bandejas	Alguns filhotes de gato estão comendo	4.7	DEV
+191	Uma mulher está tocando um violão que é elétrico	Um homem está tocando um violão	3.6	DEV
+192	Dois meninos pequeninos vestidos de smoking estão sentados em um piso vermelho acarpetado	Duas crianças pequenas estão vestindo smoking	4.5	DEV
+193	Uma pessoa está escovando um gato	A pessoa está escovando um gato	5.0	DEV
+194	Um homem está empurrando um capacete contra outro em uma bicicleta preta	Um homem está usando um capacete preto e empurrando uma bicicleta	3.4	DEV
+195	Duas jovens meninas pequenas estão sentadas no chão	Várias crianças estão sentadas e levantam seus joelhos	2.9	DEV
+196	Uma pessoa que anda de bicicleta, de uniforme preto e vermelho, está parada em uma mountain bike	Um ciclista de uniforme preto e vermelho está de pé em uma mountain bike	4.8	DEV
+197	Uma mulher está cozinhando costeleta de porco empanada	Uma mulher está cozinhando uma costeleta de porco que está empanada	4.8	DEV
+198	Um homem está andando de moto	Um homem está dirigindo uma moto	4.6	DEV
+199	A batata está sendo descascada por uma mulher	Uma mulher está jogando uma casca de batata	3.4	DEV
+200	Um cachorro está saltando em um trampolim	Um cachorro está pulando em um trampolim de mergulho	2.9	DEV
+201	Um homem sem-teto casa está segurando uma placa e implorando por dinheiro	Um homem sem-teto está segurando uma placa e está implorando piedosamente por dinheiro	4.9	DEV
+202	Um homem está tocando um violão	Um piano está sendo tocado por alguém	2.1	DEV
+203	O gato está brincando com um dispositivo	Um gato está jogando com um dispositivo	5.0	DEV
+204	Não tem nenhum urso panda comendo um pouco de bambu	O panda está comendo bambu	4.3	DEV
+205	Um homem está esguichando água na boca de um cachorro branco com uma pistola de água	A água está sendo esguichada por um homem na boca de um cachorro branco com uma pistola de água	4.8	DEV
+206	O homem está mexendo o molho para o frango	O homem está mexendo o óleo	3.6	DEV
+207	Dois meninos, que parecem pequeninos, vestidos de smoking estão sentados em um chão de carpete vermelho	Dois meninos pequeninos vestidos de smoking estão sentados em um piso vermelho acarpetado	4.8	DEV
+208	Um cachorro está correndo na estrada	Não tem nenhum homem correndo na estrada	2.3	DEV
+209	Uma cobra está sendo alimentada com um rato por um homem	Um homem está alimentando um rato para a cobra	4.7	DEV
+210	Um cigarro está sendo fumado pelo homem de chapéu de palha	O homem de chapéu de palha está fumando um cigarro	5.0	DEV
+211	A pessoa que está praticando snowboard pula pelo ar	Um salto sobre a neve branca é muito atraente para os praticantes de snowboard	2.9	DEV
+212	Um jogador de pingue-pongue encontra-se com duas pessoas	Alguns animais estão brincando na água	1.0	DEV
+213	Uma grande bola verde está atingindo uma batata	Uma grande bola verde está derrubando uma batata	4.8	DEV
+214	Um pequenino cachorro está deitado em uma cama	Um cachorro pequenino está deitado na cama	5.0	DEV
+215	A sautese está sendo untada por uma mulher que está despejando um pouco de água	Um macaco está chutando raivosamente um alvo	1.0	DEV
+216	Um homem está falando com a mulher que está sentada ao lado dele e está dirigindo um carro	A mulher e o homem estão viajando de carro	4.2	DEV
+217	Um menino está praticando teclado	Um menino está tocando um teclado	4.6	DEV
+218	Um homem está falando em um palco	Não tem nenhum homem falando em um pódio	3.7	DEV
+219	Um vestido, que é preto, vermelho, branco e rosa está sendo usado por uma mulher	Uma mulher está tirando uma capa, que é muito grande, e revelando um vestido extravagante	3.6	DEV
+220	Dois homens estão fazendo um esquete engraçado com um boxeador na frente de uma multidão de pessoas	Os meninos estão dançando na frente de algumas pessoas	2.2	DEV
+221	Dois homens estão fazendo uma pausa da viagem em uma estrada nevada	Dois homens estão segurando bicicletas e parados ao lado de uma estrada coberta de neve	3.8	DEV
+222	Um ovo está sendo rachado em uma tigela por uma mulher	A mulher está quebrando dois ovos dentro de uma tigela de vidro	4.2	DEV
+223	Alguns peixes estão nadando	Alguns peixes estão nadando rapidamente	4.5	DEV
+224	Um homem está fazendo levantamentos na barra	O homem está fazendo exercício	4.6	DEV
+225	Dois crocodilos estão nadando em uma piscina verde perto de crianças brincando	Duas crianças estão brincando em uma piscina com uma boia de crocodilo colorida de verde	3.5	DEV
+226	O homem está dançando freneticamente	O homem está dançando	4.3	DEV
+227	O esquilo não está correndo em círculos	Um animal está correndo em círculos	3.5	DEV
+228	O homem está dançando	Uma mulher está dançando	3.5	DEV
+229	Uma cebola está sendo fatiada pela mulher	A mulher está fatiando uma cebola	5.0	DEV
+230	Não tem nenhuma mulher cozinhando ovos	Uma mulher está cozinhando ovos	3.7	DEV
+231	Um coelho está brincando com um coelho de brinquedo	Um coelho está brincando com um brinquedo	4.5	DEV
+232	Uma criança de uniforme verde e branco para esportes está correndo sobre a grama	Uma criança de uniforme de esportes verde e branco está correndo sobre a grama	4.9	DEV
+233	Uma palestra sobre um adulto e um menino está sendo dada em um anfiteatro	O homem e o menino estão de pé embaixo da escada, que é ao ar livre	1.5	DEV
+234	Um jogador de basquete está no chão da quadra e outro está pegando a bola	Dois times de basquete estão lutando pela bola na quadra	4.3	DEV
+235	Várias pessoas estão na frente de um edifício que é coberto por cores	Várias pessoas estão em frente a um prédio colorido	4.7	DEV
+236	Uma mulher idosa está sem camisa e está desajeitadamente derrubando dois jornais	Uma mulher velha está usando uma camisa com padrões de rosas e está desajeitadamente carregando dois jornais	3.4	DEV
+237	Um capacete preto está sendo usado por um homem que está empurrando uma bicicleta	Um homem está usando um capacete preto e empurrando uma bicicleta	4.8	DEV
+238	A mulher está despejando óleo na frigideira	Óleo está sendo despejado dentro de uma frigideira pela mulher	5.0	DEV
+239	Um homem de jaqueta vermelha está de pé perto de um caiaque amarelo sobre algumas rochas no oceano	Um homem de jaqueta vermelha está de pé perto de um caiaque amarelo em algumas pedras próximo ao oceano	4.8	DEV
+240	Não tem nenhum homem jogando a bola em um jogo de basquete	Um homem com uma camisa de time está enterrando uma bola em um jogo de basquete	4.0	DEV
+241	Um homem jovem está pegando uma motocicleta de motocross para cima de um morro de terra	Um homem jovem está empurrando uma bicicleta de motocross para cima de um morro de terra	4.6	DEV
+242	Um pato grande está voando acima de um riacho rochoso	Um pato, que é grande, está voando sobre um riacho rochoso	4.8	DEV
+243	Um homem está tirando um prato de queijo ralado de uma panela de molho	A senhora está adicionando queijo ao molho	2.4	DEV
+244	Uma mulher está dançando e cantando na chuva	Não tem nenhuma mulher dançando e cantando na chuva	3.8	DEV
+245	Um homem está tocando flauta	Um homem está fazendo música com uma flauta	4.8	DEV
+246	Um menino está jogando fora um calendário	Um menino está olhando um calendário	2.4	DEV
+247	Um homem está abrindo um pacote que não contém fones de ouvido	Uma mulher está andando a cavalo	1.1	DEV
+248	Um homem está batendo em um menino com uma espada	Um menino está batendo em um homem com uma espada	3.6	DEV
+249	Alguns animais estão brincando selvagemente na água	Alguns animais estão brincando na água	4.4	DEV
+250	O homem está cortando a fita na caixa	Um homem está passando fita em uma caixa cortada	3.4	DEV
+251	Um menino jovem vestindo um traje de banho vermelho está pulando em uma piscina de crianças azul	Um menino, que parece jovem e está usando uma roupa de banho vermelha, está pulando dentro de uma piscina azul de crianças	4.8	DEV
+252	A senhora está adicionando queijo ao molho	Um homem está tirando um prato de queijo ralado de uma panela de molho	2.4	DEV
+253	Um homem está realizando um truque em uma bicicleta verde	Um homem negro de verde está andando em uma bicicleta	2.7	DEV
+254	Um homem está desmontando a bateria	Um homem está tocando a bateria	3.5	DEV
+255	A mulher está passando sombra	Uma mulher está passando sombra	5.0	DEV
+256	A mulher não está mexendo a carne em uma tigela	Uma senhora está misturando uma mistura de carne em uma tigela	3.4	DEV
+257	Uma mulher está passando maquiagem cuidadosamente	Uma mulher está colocando um pouco de maquiagem cuidadosamente	4.9	DEV
+258	Um homem em uma camisa tingida de roxo está olhando para o homem de camisa preta que está fazendo uma cara engraçada	Um homem de camisa tingida de roxo está olhando para um homem de camisa preta que está fazendo uma cara que parece engraçada	5.0	DEV
+259	Uma mulher que está usando um boá rosa está andando de bicicleta por uma ponte construída para pedestres	Calça boca de sino rosa e cachecol rosa não estão sendo usados por mulheres com calças prateadas ou pessoas andando de bicicleta	2.7	DEV
+260	Duas crianças estão empurrando um crocodilo inflável em uma piscina	Duas crianças estão brincando em uma piscina com uma boia de crocodilo colorida de verde	4.4	DEV
+261	A senhora está rachando um ovo para a batedeira	A senhora está quebrando um ovo para a batedeira	4.9	DEV
+262	Um motociclista está usando um equipamento que é preto	Um homem está empurrando um capacete contra outro em uma bicicleta preta	2.4	DEV
+263	Uma chita está correndo rapidamente atrás de sua presa	Uma chita está perseguindo sem ar sua presa através de um campo	4.6	DEV
+264	Uma menina jovem está usando língua de sinais	Língua de sinais está sendo usada por uma jovem menina	4.9	DEV
+265	Um homem está rindo	Um homem está chorando	2.5	DEV
+266	O homem está dirigindo um carro	O carro do motorista é estacionado por um homem	3.4	DEV
+267	Um homem está aparando um gramado	Um homem está misturando	1.2	DEV
+268	Uma mulher está mergulhando um camarão na massa	Uma mulher está mergulhando um pitu na massa	4.4	DEV
+269	A pessoa não está desenhando	Um homem está desenhando uma imagem	3.5	DEV
+270	O jogador de tênis com uma faixa de cabeça verde está batendo na bola	Um jogador de tênis com uma faixa verde está acertando a bola	5.0	DEV
+271	Um homem está em silêncio	Um homem está falando	3.3	DEV
+272	Um ciclista está fazendo sem medo um truque no ar	O ciclista está realizando um truque no ar	4.9	DEV
+273	Um menino está olhando um calendário	Um menino está checando um calendário	4.6	DEV
+274	Um cachorro branco está usando uma tiara de rena de Natal e está brincando com um cachorro castanho na grama	Um cachorro branco está usando uma tiara de rena de Natal e está brincando com um cachorro de pelagem castanha na grama	4.5	DEV
+275	Um homem está dançando em um telhado	Não tem nenhum homem de pé sobre um telhado tocando um violino	3.1	DEV
+276	Uma pessoa está tocando um violão e cantando	O cantor está contratando uma pessoa para demitir o violonista	2.1	DEV
+277	Um bebê está espirrando e assustando outro bebê	Um bebê está espirrando e amedrontando outro bebê	4.9	DEV
+278	Não há nenhum homem montando um cavalo	O homem está montando um cavalo perto de um riacho	4.0	DEV
+279	Um menino jovem está escalando uma parede de pedra	O menino jovem está escalando a parede de pedra	4.8	DEV
+280	Um homem está andando de motocicleta	Um homem está andando de moto	5.0	DEV
+281	Lama está sendo jogada no menino brincando	O menino está brincando na lama	3.7	DEV
+282	Um homem está tocando o violão	O violão está sendo tocado por um homem	4.9	DEV
+283	Um homem está se cortando com um pedaço de papel	Um homem está cortando um papel	2.8	DEV
+284	Uma senhora de chapéu de pele e um casaco de pele está em pé ao ar livre em frente a um prédio	Uma mulher com chapéu de pele e casaco de pele está de pé do lado de fora do edifício	4.8	DEV
+285	Três mulheres estão em pé paradas	Três mulheres estão dançando	2.8	DEV
+286	Um homem está falando a respeito do palco	Um homem está falando em um palco	3.56	DEV
+287	Alguém está tocando piano	O piano está sendo tocado por alguém	4.8	DEV
+288	A mulher não está tocando a flauta	A mulher está tocando a flauta	4.2	DEV
+289	Um gato está bebendo leite avidamente	Um pouco de leite está sendo bebido avidamente por um gato	4.8	DEV
+290	Um menino está de pé na água	Um menino está de pé fora da água	3.6	DEV
+291	Um violão está sendo tocado por um homem ao lado de um baterista	Um homem está tocando violão perto de um baterista	4.9	DEV
+292	Um homem está se exercitando	Uma menina está se exercitando	3.4	DEV
+293	Duas crianças estão empurrando um crocodilo inflável em uma piscina	Duas crianças estão puxando um crocodilo inflável para fora de uma piscina	3.7	DEV
+294	Um homem está colocando um pouco de queijo em uma pizza	Um homem está polvilhando queijo ralado em uma pizza	4.8	DEV
+295	Uma menina tem uma camiseta e está mantendo sua boca aberta	Uma menina está vestindo uma camiseta e tem a sua boca aberta	4.6	DEV
+296	Um homem está fugindo de uma bola de futebol	Um homem está chutando uma bola de futebol de campo	3.0	DEV
+297	Dois meninos assustados estão conversando no telefone	Uma mulher está falando em um telefone	2.7	DEV
+298	Um homem está guardando um violão	Um homem está apaixonadamente tocando um violão	3.3	DEV
+299	Um homem do Oriente Médio está parado encostado em um poste perto de outras pessoas	Um homem está encostado contra um poste e está cercado por pessoas	4.2	DEV
+300	Um homem está sentado confortavelmente à mesa	Uma pessoa está sentada confortavelmente em uma mesa	4.5	DEV
+301	Um homem está misturando	Um homem está sacudindo uma bebida	3.8	DEV
+302	Um homem está andando lentamente através de uma ponte de corda	Um menino está andando através de uma ponte	3.5	DEV
+303	Uma flauta está sendo tocada por uma menina	Uma menina está tocando uma flauta	4.9	DEV
+304	Uma mulher está fatiando um tomate	Uma mulher está descascando uma batata	3.0	DEV
+305	Dois adultos estão sentados em cadeiras e estão observando o oceano	Alguns adultos estão sentados nas cadeiras e estão observando o oceano	4.7	DEV
+306	O homem está intensamente tocando o violão	Uma jovem mulher está tocando o violão	3.4	DEV
+307	O homem está montando um cavalo	Um cavalo está sendo montado por um homem	5.0	DEV
+308	Pessoas estão em uma praia cheia de areia perto do oceano e estão curtindo um dia cheio de sol	Um monte de pessoas está na costa	3.8	DEV
+309	Um cachorro que tem a pelagem branca e castanha está trotando pelo raso	Um cachorro branco e castanho está andando pela água com dificuldade	4.0	DEV
+310	O cachorro preto está carregando uma bola azul e branca na boca	Um cachorro preto está carregando um brinquedo azul e branco na boca	4.9	DEV
+311	Um homem está tocando bateria	Um homem está tocando a bateria	4.8	DEV
+312	Dois homens estão de pé perto da água e estão segurando varas de pesca	Não tem nenhum homem de pé próximo da água e segurando varas de pesca	3.4	DEV
+313	O homem está tocando um violão	O homem não está tocando um violão	3.2	DEV
+314	O macaco está sendo treinado em artes marciais	Um macaco está chutando a mão enluvada de uma pessoa	3.2	DEV
+315	O médico não está ajudando o paciente	O médico está ajudando o paciente	3.4	DEV
+316	Pessoas estão em uma praia cheia de areia perto do oceano e estão curtindo o dia ensolarado	Um monte de caras está na costa	3.2	DEV
+317	Um grupo de pessoas está equipado com equipamentos de segurança	Uma pessoa com equipamento de ciclismo está parada de pé de frente para algumas montanhas	2.7	DEV
+318	A noiva e o noivo estão partindo após o casamento	Um casal que acabou de se casar está descendo o corredor	4.1	DEV
+319	A mulher não está cortando uma cenoura	A mulher está cortando uma cenoura	3.7	DEV
+320	Dois homens estão invadindo um carro durante uma viagem em uma estrada nevada	Dois homens com bicicletas estão do lado de uma estrada nevada	2.2	DEV
+321	Um cachorro está correndo em uma estrada nevada	Um cachorro está correndo em um caminho nevado	4.5	DEV
+322	O cantor está contratando uma pessoa para demitir o violonista	Uma pessoa está tocando um violão e cantando	2.1	DEV
+323	Um homem está sentado pacificamente em um barco em frente ao pôr-do-sol perto de uma bandeira	Um homem está em um barco na frente do pôr do sol	4.5	DEV
+324	Um homem está participando de uma corrida de bmx	Um homem está participando de uma corrida de bmxs	4.7	DEV
+325	Um homem perto de uma parede feita de tijolos está usando uma máscara em torno de sua boca e uma rede de cabelo	Um homem perto de um muro de tijolos está usando uma máscara ao redor da boca e uma rede de cabelo	4.8	DEV
+326	Um casal está correndo em direção ao oceano	Não tem nenhum casal correndo em direção ao oceano	3.5	DEV
+327	Não há nenhum homem de jaqueta preta fazendo truques em uma moto	Uma pessoa de blusa preta está fazendo truques em uma moto	3.6	DEV
+328	A mulher está mexendo ovos em uma tigela	A senhora está mexendo ovos em uma tigela	4.9	DEV
+329	Um avião está pousando	Este avião está decolando	3.8	DEV
+330	A mulher está picando alho	Os brócolis estão sendo picados por uma mulher	3.0	DEV
+331	Um cachorro, que é caramelo, está atravessando a neve	Um cachorro caramelo está correndo pela neve	4.9	DEV
+332	A senhora não está medindo o tornozelo de outra mulher	A senhora está medindo o tornozelo de outra mulher	3.0	DEV
+333	A senhora está fatiando um tomate	A mulher está fatiando um tomate	4.7	DEV
+334	Uma mulher está batendo dois ovos na tigela e está usando um batedor feito de metal	Uma mulher está batendo dois ovos em uma tigela e está usando um batedor feito de metal	5.0	DEV
+335	Um homem está fatiando um pão	Ninguém está fatiando um pedaço de pão	3.6	DEV
+336	A mulher com uma faca está fatiando uma pimenta	A mulher com a faca não está fatiando uma pimenta	4.2	DEV
+337	Um homem está fatiando um pão	Uma pessoa está fatiando um pedaço de pão	4.6	DEV
+338	Um menino está vestindo tudo preto e está escorregando em um escorregador inflável amarelo	Um menino está vestindo tudo preto e está escorregando em um escorregador inflável	4.3	DEV
+339	Um homem está fazendo exercícios	Um homem fazendo exercícios está sendo derrubado	4.1	DEV
+340	O grande cachorro castanho está correndo ao ar livre na sujeira	O cachorro grande castanho está correndo para fora na sujeira	4.9	DEV
+341	Um cachorro, que é branco, está em pé nas folhas caídas	Um cachorro branco está parado em cima de folhas caídas	4.7	DEV
+342	Um homem está se atrelando antes de uma escalada	Um panda está escalando	1.0	DEV
+343	Uma senhora está misturando uma mistura de carne em uma tigela	Uma senhora está misturando uma mistura feita de carne em uma tigela	5.0	DEV
+344	Um menino está olhando um calendário	Um menino está encarando um calendário	4.2	DEV
+345	Uma mulher está dançando belamente em uma gaiola	Uma mulher está dançando numa gaiola	4.8	DEV
+346	Um homem está derrubando uma árvore com um machado	Um homem está aguando uma árvore	3.1	DEV
+347	Um gato grande está abrindo uma gaveta com suas patas e pulando para dentro	Um gato está abrindo uma gaveta e escalando para dentro	4.4	DEV
+348	Um homem e uma mulher estão falando	Um homem está falando com uma mulher	4.8	DEV
+349	Uma bolha explodiu, tingindo a camisa da menina de vermelho	A menina de camisa vermelha está soprando uma bolha	2.96	DEV
+350	Uma mulher está pegando uma lata	Uma mulher está cortando um tomate	1.8	DEV
+351	Um cachorro grande está correndo na grama com uma bola de tênis na boca	Um cachorro, que é grande e cinza, está derrubando uma bola de sua boca e parando na grama	3.5	DEV
+352	Uma mulher está sendo beijada por um homem	Duas pessoas estão discutindo perto de uma multidão	1.1	DEV
+353	As pessoas estão andando na estrada ao lado de uma cachoeira, que é bonita	As pessoas estão andando na estrada ao lado de uma bela cachoeira	4.9	DEV
+354	Meninos pequenos estão brincando em uma fonte de água na frente de muitas pessoas	As crianças pequenas estão brincando em uma fonte de água na frente de várias pessoas	4.4	DEV
+355	Uma pessoa de luvas está chutando a mão de um macaco	Um macaco está chutando a mão enluvada de uma pessoa	3.1	DEV
+356	Um cachorro está saltando alto no ar e outro está observando	Um cachorro está pegando uma vara no ar e outro está assistindo	4.2	DEV
+357	Uma pessoa está de pé em um vasto campo de gelo glacial	Alguma pessoa está de pé em um vasto campo de gelo glacial	4.8	DEV
+358	A mulher está manuseando um sapo	Não tem nenhum homem segurando um sapo	3.2	DEV
+359	Um menino está batendo em um homem com uma espada de plástico	Um homem está sendo atingido por uma criança com uma arma	4.2	DEV
+360	Um homem em uma camisa tingida de roxo está olhando para o homem de camisa preta que está fazendo uma cara engraçada	Um homem em uma pose está sendo divertidamente assistido por outro homem	3.5	DEV
+361	Um homem de terno está de pé em frente a um microfone e cantando	O homem de terno está de pé de frente para um microfone e cantando	5.0	DEV
+362	Dois cachorros brancos estão correndo e pulando pela praia	Um par de cachorros brancos estão correndo e pulando ao longo de uma praia	4.9	DEV
+363	Um pato marrom com uma cabeça verde está batendo suas asas na água	Um pássaro está batendo suas asas na água	4.3	DEV
+364	Uma menina está olhando surpresa de uma janela da frente de uma casa na Ásia	Uma menina da Ásia, na frente de uma janela de tijolos, parece surpresa	4.6	DEV
+365	Uma criança loira está descendo um escorregador e erguendo os braços	Uma criança loira está descendo um escorregador e jogando os braços para cima	4.9	DEV
+366	Os homens estão colocando as bagagens no porta-malas de um carro	Os homens estão colocando bagagens dentro do porta-malas de um carro	5.0	DEV
+367	Uma pessoa está fatiando uma batata	Uma batata está sendo fatiada por uma pessoa	4.9	DEV
+368	A mulher não está cortando uma cenoura	Uma mulher está fatiando uma cebola	2.5	DEV
+369	Um menino com roupa de banho está sentado em cima de uma fonte circular	Um menino de roupa de banho está sentado em uma fonte circular	4.5	DEV
+370	Não tem nenhuma mulher batendo ovos	Uma mulher está misturando ovos	3.1	DEV
+371	Um homem está sentado perto de uma bicicleta e escrevendo uma nota	Não tem nenhum homem vestindo roupas que estão cobertas com tinta ou sentado do lado de fora em uma área movimentada escrevendo algo	2.7	DEV
+372	O homem está fatiando a batata	A pessoa está fatiando a batata	4.3	DEV
+373	Uma menina com uma sacola preta está em um trem lotado	Uma mulher asiática no meio de muitas pessoas está carregando uma sacola preta	3.5	DEV
+374	Uma pessoa está fritando alguma comida	Uma pessoa está cozinhando alguma comida	4.3	DEV
+375	Uma mulher está tocando um violão elétrico	Um homem está tocando um violão	3.9	DEV
+376	O homem está operando uma máquina de taquigrafria	Um homem está arrumando uma máquina de taquigrafia	3.4	DEV
+377	Não tem nenhum casal correndo em direção ao oceano	Um casal está correndo em direção ao oceano	3.5	DEV
+378	Uma mulher está descascando uma batata	O homem está fatiando algumas batatas	3.1	DEV
+379	Uma menina está cortando manteiga em duas partes	Tofu está sendo fatiado por uma mulher	2.4	DEV
+380	Uma vaqueira está montando um cavalo e rodeando um barril	Uma vaqueira está montando em um barril perto de um cavalo na esquina	2.8	DEV
+381	Alguma pessoa está de pé em um vasto campo de gelo glacial	Uma pessoa está de pé em um vasto campo de gelo glacial	4.8	DEV
+382	O menino está andando em um triciclo	Não tem nenhuma mulher pilotando uma moto aquática	1.7	DEV
+383	Um homem e uma mulher de meia idade estão andando de bicicleta por uma estrada perto da água	Um homem e uma mulher de meia idade estão montando bicicletas por uma estrada ao lado da água	4.9	DEV
+384	Um homem está carregando uma árvore	Um homem está pegando uma árvore	4.3	DEV
+385	Uma menina não está tocando o violão	O homem está intensamente tocando o violão	3.4	DEV
+386	Uma criança de pele bronzeada está olhando para a câmera	Uma criança de pele bronzeada está olhando a câmera	4.8	DEV
+387	Uma menina jovem de camisa verde está andando na calçada e segurando uma placa rosa	Uma menina de camisa azul, que parece jovem, está andando na calçada e segurando uma placa rosa	4.9	DEV
+388	Um homem está sentado pacificamente em um barco em frente ao pôr-do-sol perto de uma bandeira	Um homem está sentado em um barco de frente para o pôr do sol, perto de uma bandeira	4.3	DEV
+389	Uma mulher está mergulhando um camarão na massa	Não tem nenhuma mulher mergulhando um camarão na massa	4.1	DEV
+390	Duas pessoas estão lutando e os espectadores estão assistindo	Duas pessoas estão lutando kickboxing e espectadores estão assistindo	4.4	DEV
+391	Um homem está dando um telefonema	Um homem está conversando ao telefone	4.3	DEV
+392	O gato empoleirado na mesa está olhando curiosamente pela janela	O gato empoleirado na mesa está olhando pela janela	4.8	DEV
+393	Uma mulher concentrada está tocando flauta	Uma mulher está tocando flauta	4.3	DEV
+394	Um homem está preparando algum prato	Um homem está preparando um prato	5.0	DEV
+395	Um cachorro está pulando para pegar um frisbee na neve	O cachorro está pulando para pegar um frisbee na neve	5.0	DEV
+396	Um pato marrom com uma cabeça verde está batendo suas asas na água	Um pato com penas castanhas e cabeça verde está batendo as suas asas na água	4.7	DEV
+397	Uma mulher está quebrando dois ovos em uma tigela	Alguns ingredientes estão sendo separados em uma tigela por uma pessoa	3.45	DEV
+398	A mulher está dançando	A senhora está dançando	5.0	DEV
+399	Uma mulher está cozinhando ovos	A mulher está cozinhando algo	4.2	DEV
+400	A menina está batucando suas unhas	Uma menina está batucando as unhas	4.9	DEV
+401	Um cachorro preto e um cachorro branco estão lutando no chão	Um cachorro preto e um cachorro branco estão se digladiando no chão	4.7	DEV
+402	Um limão está sendo espremido por uma mulher	Uma mulher está espremendo um limão	4.9	DEV
+403	Um homem está liderando a corrida	Alguns homens estão correndo em competições no exterior	3.1	DEV
+404	O homem está tocando o piano de forma divertida com seu nariz	O homem está tocando o piano com seu nariz	4.6	DEV
+405	Uma pessoa está sentada confortavelmente em uma mesa	Um homem está sentado confortavelmente à mesa	4.5	DEV
+406	Um homem está cortando uma batata em pedaços	um homem está cortando uma batata	4.8	DEV
+407	Uma corda está sendo escalada por um homem	Um cabo está sendo escalado por um homem	4.2	DEV
+408	Não tem nenhum homem jogando a bola em um jogo de basquete	O jogador está enterrando a bola de basquete e uma multidão está ao fundo	3.5	DEV
+409	Uma pessoa está polvilhando tempero em vários pães fatiados e com manteiga	Um homem está polvilhando tempero em vários pães fatiados e com manteiga	4.4	DEV
+410	Um leão está cansadamente andando ansiosamente em uma jaula	Não tem nenhum leão cansadamente andando ansiosamente em uma jaula	3.6	DEV
+411	Uma mulher está cortando uma cebola	A mulher está jogando cebolas fora	3.0	DEV
+412	Não tem nenhuma pessoa usando chapéu e sentada na grama	Uma pessoa está usando um chapéu e está sentada na grama	3.3	DEV
+413	Um homem em uma grande cidade está segurando uma placa e pedindo por dinheiro	Um homem em uma cidade grande está segurando uma placa e pedindo dinheiro	5.0	DEV
+414	Uma mulher está batucando seus dedos em uma mesa	Uma mulher está batucando seus dedos	4.7	DEV
+415	Três pessoas estão paradas ao lado de um galho de árvore	Duas crianças estão penduradas em um galho grande	2.5	DEV
+416	A pessoa está fatiando a batata	O homem está fatiando a batata	4.3	DEV
+417	Uma pessoa está parando de tocar um trompete	Uma pessoa está tocando trompete	3.6	DEV
+418	Uma mulher está dançando numa gaiola	A senhora está dançando	4.1	DEV
+419	Uma mulher está fatiando uma cebola	Uma cebola está sendo fatiada por uma mulher	4.9	DEV
+420	Três pessoas estão dirigindo quadriciclos em um campo	Três pessoas estão dirigindo quadriciclos	4.2	DEV
+421	Uma pessoa está andando de motocicleta	Uma pessoa está picando uma cebola roxa	1.2	DEV
+422	Um cachorro, que tem pelagem castanha e branca, está segurando uma bola de beisebol na boca	Um cachorro castanho e branco está segurando uma bola de beisebol na boca	4.9	DEV
+423	O ciclista está realizando um truque no ar	Um ciclista está fazendo sem medo um truque no ar	4.9	DEV
+424	Um menino está dizendo uma palavra	Uma criança está conversando	3.9	DEV
+425	Dois homens estão lutando com os punhos em um ringue	Os homens estão lutando com seus punhos em um ringue	4.8	DEV
+426	A mulher está quebrando dois ovos em uma tigela feita de vidro	Uma mulher está quebrando um ovo em uma tigela	4.5	DEV
+427	Dois homens com bicicletas estão do lado de uma estrada nevada	Dois homens estão tomando uma pausa de uma viagem em uma estrada coberta de neve	3.2	DEV
+428	Um menino na adolescência está falando com uma menina com uma webcam	Um homem está conversando com uma menina com uma câmera de internet	3.9	DEV
+429	O homem está dançando freneticamente	Três mulheres estão dançando	2.4	DEV
+430	Uma pessoa está queimando algumas câmeras com um maçarico	Algumas câmeras estão sendo queimadas por uma pessoa com um maçarico	4.8	DEV
+431	Um homem está fazendo exercícios	Um homem está descansando	2.8	DEV
+432	Um bebê tigre está brincando com uma bola	Um filhote de tigre está brincando com uma bola	4.9	DEV
+433	Um cachorro está comendo uma boneca	Uma criança está brincando com um brinquedo de cachorro	1.9	DEV
+434	Dois cachorros estão brincando em uma praia	Dois cachorros estão brincando na praia	4.8	DEV
+435	Não há nenhum homem montando um cavalo	Um homem está dirigindo um carro	1.7	DEV
+436	Os corredores estão competindo em uma corrida	Os corredores não estão participando da corrida	3.9	DEV
+437	Um menino está brincando de escorregar na grama	Uma criança está brincando de escorregar na grama	4.6	DEV
+438	A criança pequena está jogando futebol e caindo inofensivamente na grama	A bola de futebol está entre os pés de um menino que está deitado na grama	3.4	DEV
+439	Um grupo não está pegando a correnteza em um bote	Esse grupo de pessoas está praticando salvamento na água e usando coletes salva-vidas	2.8	DEV
+440	Uma mulher que está usando um boá rosa está andando de bicicleta por uma ponte construída para pedestres	Uma pedestre está construindo bicicletas rosas para ciclistas que usam boás	2.8	DEV
+441	Um homem e uma mulher estão andando juntos pela cidade	Um homem e uma mulher estão andando juntos pelo bosque	3.5	DEV
+442	Um cachorro branco está de pé nas folhas no chão	Um cachorro branco está parado em cima de folhas caídas	4.7	DEV
+443	Um filhote de cachorro fofo está repetidamente rolando de um lado para outro com suas costas no chão	Um filhote de cachorro está rolando de um lado para outro de costas repetidamente	4.4	DEV
+444	Um homem está parado em uma calçada	O homem está de pé na calçada	5.0	DEV
+445	Algumas mulheres estão falando	Algumas mulheres não estão falando	4.1	DEV
+446	O homem de chapéu de vaqueiro está andando pelo mercado e está colocando uma mão no bolso	O homem de chapéu para vaqueiro está andando por um mercado e está pondo uma mão no seu bolso	4.8	DEV
+447	O homem está abaixando barras	O homem está levantando pesos	3.8	DEV
+448	Uma mulher está vestindo uma touca egípcia	A mulher não está usando óculos ou touca	3.6	DEV
+449	Um homem está chorando	Um homem está gritando	3.1	DEV
+450	Uma mulher está cozinhando um ovo em uma sautese	Uma mulher está despejando uma mistura em uma tigela e misturando-a	2.2	DEV
+451	Uma mulher está agarrando uma lata	Uma mulher está pegando uma lata	4.0	DEV
+452	O bebê está engatinhando feliz	Um bebê está engatinhando feliz	4.9	DEV
+453	Não tem nenhuma mulher pilotando uma moto aquática	O menino está andando em um triciclo	1.7	DEV
+454	Um esquilo está rodando em círculos	Um corredor está rodeando um esquilo	3.1	DEV
+455	Uma jovem senhora de biquíni está deitada na praia	Uma senhora que parece jovem está deitada na praia	4.3	DEV
+456	A menina jovem está soprando uma bolha que é grande	A jovem mulher de camisa tingida de vermelho está soprando uma bolha que é gigante	3.8	DEV
+457	O chefe está cuidadosamente secando o óleo da frigideira	O chefe está cuidadosamente despejando óleo dentro de uma frigideira	3.5	DEV
+458	Uma moto aquática está sendo pilotada por uma mulher	Uma mulher está andando em uma moto aquática	5.0	DEV
+459	Não tem nenhuma mulher preparando um ovo em uma sautese	Uma mulher está despejando uma mistura em uma tigela e misturando-a	2.9	DEV
+460	Um menino debaixo de um guarda-chuva está sendo segurado por seu pai que está vestindo um casaco tingido de azul	Um menino embaixo de um guarda-chuva está sendo segurado por seu pai que está usando um casaco azul	4.6	DEV
+461	Um menino está aparando o gramado	Um cara está aparando o gramado	4.6	DEV
+462	Um homem está sendo curiosamente observado por uma mulher	Uma mulher está olhando curiosamente para um homem	4.4	DEV
+463	Algumas pessoas estão sentadas no chão do lado de fora de um monumento	O grupo de pessoas está sentado no chão do lado de fora de um monumento	4.9	DEV
+464	Um homem e uma mulher estão sentados	Um homem está andando na chuva	2.0	DEV
+465	Um homem está tocando uma flauta de madeira	O piano está sendo tocado por um homem	2.6	DEV
+466	Um homem está tocando teclado em um parque	Uma pessoa está tocando o teclado	4.3	DEV
+467	A menina de camisa vermelha está soprando uma bolha	A menina de camisa tingida de vermelho não está soprando uma bolha	2.4	DEV
+468	Algumas câmeras estão sendo queimadas por uma pessoa com um maçarico	Uma pessoa está queimando algumas câmeras com um maçarico	4.8	DEV
+469	Uma mulher está costurando com uma máquina	Uma mulher está usando uma máquina de costura	4.9	DEV
+470	Um menino pequeno está tocando violão	Um menino está tocando um violão	4.4	DEV
+471	A mulher está usando um capacete azul e está andando de bicicleta em um estacionamento	Uma mulher está usando um capacete azul e está andando de bicicleta em um estacionamento	5.0	DEV
+472	Um menino na adolescência está falando com uma menina com uma câmera de internet	Um homem está falando com uma menina usando uma câmera de internet	3.9	DEV
+473	Uma mulher está tocando um violão	Não tem nenhuma mulher tocando um violão	3.7	DEV
+474	Um menino e uma menina em trajes de banho estão usando boias em seus braços	Um menino e uma menina de trajes de banho estão usando boias de braço	4.9	DEV
+475	Alguém está pregando uma lente de câmera com fortes barulhos	O homem está martelando um prego com uma câmera	3.55	DEV
+476	Um menino está tocando um teclado	Um menino está sentado confortavelmente em um quarto e tocando piano perto de uma lâmpada	3.9	DEV
+477	Um homem está passeando na chuva	Um homem está andando na chuva	5.0	DEV
+478	Uma mulher que está usando um boá rosa está andando de bicicleta por uma ponte construída para pedestres	Uma mulher que está vestindo um cachecol rosa está andando em uma bicicleta pela ponte construída para pedestres	4.3	DEV
+479	Uma mulher está cortando carne	Uma mulher está cortando alguma carne	4.9	DEV
+480	Um menino está em pé em frente ao edifício azul no espaço reservado para pessoas com deficiência	Um menino de camiseta vermelha está na frente de uma parede, que é longa e azul, e está desconfiadamente levantando uma sobrancelha para a câmera	2.3	DEV
+481	Uma menina está pulando de uma pedra e outra está em pé sobre a rocha	Uma menina está pulando de uma rocha e outra está de pé sobre a rocha	4.8	DEV
+482	Não tem nenhuma mulher fatiando um tomate	Uma mulher está fatiando um tomate	3.06	DEV
+483	Um homem está apontando para um sedã prateado	Um homem solitário está em um estacionamento e está jogando tênis contra um grande muro	1.4	DEV
+484	O homem está fatiando pão	O pão está sendo fatiado por um homem	4.9	DEV
+485	Um homem não está tocando um violão	Um homem está tocando teclado	3.73	DEV
+486	Um cachorro preto escuro e um cachorro castanho claro estão brincando no quintal	Um cachorro, que é castanho, e um que é preto estão correndo na grama	3.9	DEV
+487	Um homem está sentado perto de uma bicicleta e escrevendo uma nota	Um homem sentado está ocupado escrevendo algo em uma área coberta por tinta	3.2	DEV
+488	Dois meninos estão fazendo artes marciais em um tapete azul	Duas crianças estão fazendo arte marcial em um tapete azul	4.5	DEV
+489	A massa está sendo esticada por um homem	Um homem está espalhando massa	4.8	DEV
+490	Um homem está cortando uma batata	Uma mulher está cortando um tomate	2.4	DEV
+491	A comida nas bandejas está sendo comida pelos filhotes de gato	Os filhotes de gato estão comendo a comida nas bandejas	4.8	DEV
+492	O homem está tocando a flauta	A pessoa está tocando a flauta	4.7	DEV
+493	Alguém está sendo fervido com quiabo em uma panela	Alguém está fervendo quiabo em uma panela	2.7	DEV
+494	Dois salsichas estão brincando com uma bola vermelha	Dois cachorros castanhos estão disputando uma bola vermelha e estão brincando na grama	3.7	DEV
+495	Diferentes times estão jogando futebol no campo	Diferentes jogadores de futebol estão em formação em um campo	3.9	DEV
+496	Um gato está tocando teclados	Um gato está tocando um piano comicamente	3.9	DEV
+497	A mulher está rachando ovos em uma tigela	A senhora não está quebrando ovos na tigela	3.6	DEV
+498	Um homem de patins está patinando em uma pista construída para skate	Um homem de patins está patinando em uma pista de skate	4.7	DEV
+499	Uma tartaruga de mar está procurando peixes	O peixe está seguindo a tartaruga	3.2	DEV
+500	Uma mulher está esvaziando a água de uma caneca	Uma mulher está coletando água da torneira em uma caneca	3.8	DEV
