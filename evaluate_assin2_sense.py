@@ -27,7 +27,7 @@ import nlpnet
 DATA_DIR = './data/'
 TEST_DIR = path.join(DATA_DIR, 'assin-test-gold/')
 
-tagger = nlpnet.POSTagger('/home/jessica/Documents/Projects/wordembeddings/assin/data/pos-pt', language='pt')
+tagger = nlpnet.POSTagger('/home/jessica/Projects/ASSIN/linearregression-similarity/data/pos-pt', language='pt')
 
 def set_part_of_speech_tag(sent):
     sent = str(sent).replace("[", "")
@@ -132,7 +132,7 @@ if __name__ == '__main__':
 
     pairs_train = read_xml('%sassin2-train.xml' % (DATA_DIR), True)
 
-    pairs_test = read_xml('%sassin-ptbr-test.xml' % (TEST_DIR), True)
+    pairs_test = read_xml('%sassin2-blind-test.xml' % (TEST_DIR), True)
 
 
     # Loading evaluation data and parsing it
@@ -157,7 +157,7 @@ if __name__ == '__main__':
     write_xml('%soutput.xml' % DATA_DIR, results_test)
 
     # Evaluating
-    pairs_gold = read_xml('%sassin-pt%s-test.xml' % (TEST_DIR, lang), True)
+    pairs_gold = read_xml('%sassin2-blind-test.xml' % (TEST_DIR), True)
     pairs_sys = read_xml('%soutput.xml' % DATA_DIR, True)
     #eval_rte(pairs_gold, pairs_sys)
     eval_similarity(pairs_gold, pairs_sys)

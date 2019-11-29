@@ -52,6 +52,9 @@ def write_xml(filename, pred):
         xml = minidom.parse(fp)
     pairs = xml.getElementsByTagName('pair')
     for pair in pairs:
+        #print('pred: ', pred)
+        #print('pairs.index: ', pairs.index(pair))
+        #print('pair: ', str(pred[pairs.index(pair)]))
         pair.setAttribute('similarity', str(pred[pairs.index(pair)]))
     with open(filename, 'w') as fp:
         fp.write(xml.toxml())
